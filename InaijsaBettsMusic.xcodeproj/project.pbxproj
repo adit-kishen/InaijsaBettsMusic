@@ -15,6 +15,7 @@
 		FB6550A723E94B08000A3DC1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FB6550A523E94B08000A3DC1 /* LaunchScreen.storyboard */; };
 		FB6550B223E94B08000A3DC1 /* InaijsaBettsMusicTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB6550B123E94B08000A3DC1 /* InaijsaBettsMusicTests.swift */; };
 		FB6550BD23E94B08000A3DC1 /* InaijsaBettsMusicUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB6550BC23E94B08000A3DC1 /* InaijsaBettsMusicUITests.swift */; };
+		FB6550D523E96127000A3DC1 /* MusicTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB6550D423E96127000A3DC1 /* MusicTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		FB6550B823E94B08000A3DC1 /* InaijsaBettsMusicUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = InaijsaBettsMusicUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FB6550BC23E94B08000A3DC1 /* InaijsaBettsMusicUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InaijsaBettsMusicUITests.swift; sourceTree = "<group>"; };
 		FB6550BE23E94B08000A3DC1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FB6550D423E96127000A3DC1 /* MusicTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MusicTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				FB65509A23E94B03000A3DC1 /* AppDelegate.swift */,
 				FB65509C23E94B03000A3DC1 /* SceneDelegate.swift */,
 				FB65509E23E94B03000A3DC1 /* ViewController.swift */,
+				FB6550D423E96127000A3DC1 /* MusicTableViewCell.swift */,
 				FB6550A023E94B03000A3DC1 /* Main.storyboard */,
 				FB6550A323E94B08000A3DC1 /* Assets.xcassets */,
 				FB6550A523E94B08000A3DC1 /* LaunchScreen.storyboard */,
@@ -262,6 +265,7 @@
 				FB65509F23E94B03000A3DC1 /* ViewController.swift in Sources */,
 				FB65509B23E94B03000A3DC1 /* AppDelegate.swift in Sources */,
 				FB65509D23E94B03000A3DC1 /* SceneDelegate.swift in Sources */,
+				FB6550D523E96127000A3DC1 /* MusicTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
